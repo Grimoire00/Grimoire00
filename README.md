@@ -9,8 +9,8 @@
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/alfin-murod-3874b3222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alfinmrd_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alfinmurod" height="30" width="40" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alfinmrd_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfin-murod-3874b3222/)
 
 ## Languages and Tools:
 
