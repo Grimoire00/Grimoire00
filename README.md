@@ -1,14 +1,13 @@
-<h1 align="left">Welcome To Alfin Murod Github!</h1>
-<h2 align="left">🙎‍♂️ About Me:</h2>
+# Welcome To Alfin Murod Github!
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p> -->
-<h3> 👨‍💻 I'm freshgraduate at Universitas Pembangunan Nasional Veteran Jawa Timur</h3>
-<h3>💊 I do Web Developer</h3>
-<h3>🤔 Any question?, hit me up!</h3>
-<h3>⚡ Fun fact I like sleep 💤.</h3>
+## 🙎‍♂️ About Me:
 
-<h2 align="left">Socials:</h2>
-<!-- <p align="left"> -->
+👨‍💻 I'm freshgraduate at Universitas Pembangunan Nasional Veteran Jawa Timur<br>
+💊 I do Web Developer<br>
+🤔 Any question?, hit me up!<br>
+⚡ Fun fact I like sleep 💤.<br>
+
+## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/alfin-murod-3874b3222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alfinmrd_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alfinmurod" height="30" width="40" /></a>
